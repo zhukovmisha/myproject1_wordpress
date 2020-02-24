@@ -73,3 +73,6 @@ To spin up wordress
 ```
 docker-compose up -d
 ```
+
+Technologies used
+![alt text](img/tech_for_project1.jpg)
