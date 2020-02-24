@@ -68,3 +68,8 @@ volumes:
 ```
 
 For further details on Bitnami Images visit [link](https://hub.docker.com/r/bitnami/wordpress)
+
+To spin up wordress
+```
+docker-compose up -d
+```
